@@ -1,5 +1,4 @@
-Instagram Stories Animation
-Este projeto é uma animação inspirada nos stories do Instagram. Ele simula a transição entre stories, 
+Instagram Stories Animation: Este projeto é uma animação inspirada nos stories do Instagram. Ele simula a transição entre stories, 
 com uma barra de tempo no topo da tela e controles de navegação que permitem ao usuário avançar para o próximo story ou voltar ao anterior.
 
 Funcionalidades
